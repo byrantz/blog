@@ -540,7 +540,7 @@ index:
   # 是否显示文章信息（时间、分类、标签）
   # Meta information of post
   post_meta:
-    date: true
+    date: false
     category: true
     tag: true
 
